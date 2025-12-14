@@ -1,0 +1,6 @@
+Category,Component,Function / Role
+Microcontroller,Arduino Uno,Central processing unit; processes sensor inputs and manages navigation and fire-response logic.
+Fire Detection,3 Flame Sensors,Provides angular data for accurate fire source detection and location.
+Mobility,4 DC Gear Motors,Powers the robot's mobility and is controlled for autonomous navigation.
+Motor Control,L293D Motor Driver,Manages power and controls the speed and direction of the DC gear motors.
+Fire Suppression,Servo Motor & Water Pump Mechanism,"The servo provides precise aiming/targeting, and the pump initiates the controlled discharge of water onto the fire source."
