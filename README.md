@@ -3,4 +3,9 @@ This project demonstrates the design and development of an autonomous robotic sy
 
 The project highlights practical skills in embedded systems, robotics, and sensor-driven automation, with applications in safety and smart automation systems.
 
+Components & Specifications
+  👉 [View Components Table](readme%20file%20-%20readme%20file%20(1).csv)
+
+Real Hardware Prototype  
+  👉 [View Robot Image](Fire%20Fighting%20Robot%20Image.jpeg)
 
