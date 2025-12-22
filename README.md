@@ -7,7 +7,8 @@ Components & Specifications
    [View components.csv](readme%20file%20-%20readme%20file%20(1).csv)
 
 Real Hardware Prototype  
-   [View Robot Image](Fire%20Fighting%20Robot%20Image.jpeg)
+   [Fire Fighting Robot](Fire%20Fighting%20Robot%20Image.jpeg)
+
 
 Circuit Diagram
    [View Circuit Diagram](Robot%20Circuit%20Diagram.jpeg)
