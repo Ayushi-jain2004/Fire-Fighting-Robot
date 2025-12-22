@@ -9,3 +9,5 @@ Components & Specifications
 Real Hardware Prototype  
    [View Robot Image](Fire%20Fighting%20Robot%20Image.jpeg)
 
+Circuit Diagram
+   [View Circuit Diagram](Fire%20Fighting%20Robot%20Circuit%20Diagram.jpeg)
